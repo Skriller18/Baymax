@@ -1,0 +1,10 @@
+numpy
+torch
+torchaudio
+transformers
+encodec
+typing
+datasets
+tqdm
+psutil
+vector-quantize-pytorch

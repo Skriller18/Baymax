@@ -1,0 +1,2 @@
+[console_scripts]
+audiotoken = audiotoken.scrc:main

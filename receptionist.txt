@@ -1,0 +1,433 @@
+RESCHEDULE_APPOINTMENT:"Your appointment with Dr. Adams has been rescheduled to 2:00 PM on Thursday.","We have moved your consultation with Dr. Clark to 11:00 AM on Monday.","The appointment with Dr. Davis has been rescheduled to 4:30 PM tomorrow.","Your new appointment time with Dr. Evans is 9:00 AM on Friday."
+CANCEL_APPOINTMENT:"Your appointment with Dr. Garcia at 3:00 PM has been canceled.","The consultation with Dr. Hernandez at 10:00 AM has been successfully canceled.","Your appointment with Dr. Johnson scheduled for tomorrow has been canceled.","The 1:00 PM appointment with Dr. Lee has been canceled as per your request."
+CONFIRM_APPOINTMENT:"Please confirm your appointment with Dr. Moore at 12:00 PM on Wednesday.","Kindly confirm your visit with Dr. Rodriguez scheduled for 8:00 AM tomorrow.","Your appointment with Dr. Scott is at 5:00 PM. Please confirm.","Please confirm your appointment with Dr. White set for 2:30 PM."
+FOLLOW_UP_REMINDER:"Reminder: Your follow-up with Dr. Hall is at 10:00 AM next Tuesday.","Don't forget your follow-up appointment with Dr. Lopez at 4:00 PM on Friday.","You have a follow-up with Dr. Carter at 1:30 PM tomorrow.","Your follow-up visit with Dr. Rivera is scheduled for 11:00 AM on Wednesday."
+DOCTOR_UNAVAILABLE:"Dr. Mitchell is unavailable on Thursday. Please choose another date.","Dr. Perez is out of the office today. Would you like to reschedule?","Dr. Robinson will not be available on Friday. Can we assist in rescheduling your appointment?","Dr. Walker is unavailable this week. Please contact us to book another date.",
+APPOINTMENT_CONFIRMATION_REMINDER:"Your appointment with Dr. Adams is tomorrow at 2:00 PM. Please arrive 10 minutes early.","Just a reminder: Your appointment with Dr. Clark is today at 11:00 AM.","Your consultation with Dr. Davis is confirmed for 4:30 PM. See you soon!","Looking forward to your visit with Dr. Evans at 9:00 AM tomorrow.",
+MILD_FEVER:"If you have a fever, make sure to rest, stay hydrated, and take over-the-counter fever reducers like acetaminophen or ibuprofen. If the fever persists for more than a couple of days, consult a doctor."
+
+USER QUERY: "I have a sore throat. Any suggestions?"
+MEDICAL_ADVICE: "For a sore throat, drink warm fluids, use throat lozenges, and gargle with salt water. If the pain persists or you have a high fever, you should see a doctor."
+
+USER QUERY: "How can I treat a headache at home?"
+MEDICAL_ADVICE: "To treat a headache, you can take over-the-counter pain relievers like ibuprofen or acetaminophen, rest in a dark, quiet room, and apply a cold or warm compress to your head or neck."
+
+USER QUERY: "What can I do for a stomach ache?"
+MEDICAL_ADVICE: "For a stomach ache, try drinking clear fluids, avoiding solid food for a few hours, and eating bland foods like toast or crackers once you feel better. If the pain is severe or lasts for a long time, see a doctor."
+
+USER QUERY: "I feel nauseous. What should I do?"
+MEDICAL_ADVICE: "If you're feeling nauseous, try to rest, avoid strong odors, and sip on clear or ice-cold drinks. Ginger tea or ginger candies can also help with nausea. If nausea persists or is severe, seek medical attention."
+
+USER QUERY: "How can I ease back pain?"
+MEDICAL_ADVICE: "For back pain, try applying ice or heat to the affected area, take over-the-counter pain relievers, and do gentle stretching exercises. If the pain continues, consult a healthcare professional."
+
+USER QUERY: "What can I do if I have a cough?"
+MEDICAL_ADVICE: "For a cough, stay hydrated, drink warm fluids, and use a humidifier. Over-the-counter cough suppressants can also help. If the cough lasts for more than a few weeks, see a doctor."
+
+USER QUERY: "I think I have a cold. Any tips?"
+MEDICAL_ADVICE: "For a cold, get plenty of rest, drink fluids, and use over-the-counter medications to relieve symptoms like a runny nose or congestion. If you develop a high fever or symptoms persist, consult a doctor."
+
+USER QUERY: "What should I do if I feel dizzy?"
+MEDICAL_ADVICE: "If you feel dizzy, sit or lie down immediately to avoid falling. Drink water, and avoid sudden movements. If dizziness continues or is accompanied by other symptoms, seek medical advice."
+
+USER QUERY: "How can I deal with an upset stomach?"
+MEDICAL_ADVICE: "For an upset stomach, eat light meals, avoid spicy or fatty foods, and drink clear fluids. Ginger tea or peppermint tea may help. If symptoms persist, see a healthcare provider."
+
+USER QUERY: "I have a minor cut. How should I treat it?"
+MEDICAL_ADVICE: "Clean the cut with water, apply an antibiotic ointment, and cover it with a bandage. Change the bandage daily and watch for signs of infection like redness or swelling."
+
+USER QUERY: "What should I do for a sprained ankle?"
+MEDICAL_ADVICE: "For a sprained ankle, follow the RICE method: Rest, Ice, Compression, and Elevation. Avoid putting weight on the ankle and consider taking over-the-counter pain relievers."
+
+USER QUERY: "How can I relieve sinus pressure?"
+MEDICAL_ADVICE: "To relieve sinus pressure, use a saline nasal spray, apply a warm compress to your face, and stay hydrated. Over-the-counter decongestants can also help."
+
+USER QUERY: "What can I do to help with constipation?"
+MEDICAL_ADVICE: "For constipation, increase your fiber intake with fruits, vegetables, and whole grains. Drink plenty of water and consider using over-the-counter laxatives if necessary."
+
+USER QUERY: "I have indigestion. What should I do?"
+MEDICAL_ADVICE: "For indigestion, avoid fatty or spicy foods, eat smaller meals, and avoid lying down right after eating. Antacids can help relieve symptoms."
+
+USER QUERY: "What should I do if I have diarrhea?"
+MEDICAL_ADVICE: "Stay hydrated by drinking plenty of fluids like water or oral rehydration solutions. Eat bland foods like rice, bananas, and toast. If diarrhea persists for more than a couple of days, consult a doctor."
+
+USER QUERY: "How can I reduce stress?"
+MEDICAL_ADVICE: "To reduce stress, practice relaxation techniques like deep breathing, meditation, or yoga. Regular exercise and getting enough sleep can also help manage stress levels."
+
+USER QUERY: "I can't sleep. Any advice?"
+MEDICAL_ADVICE: "To improve sleep, establish a regular bedtime routine, avoid caffeine and electronics before bed, and create a comfortable sleep environment. If insomnia persists, consult a healthcare professional."
+
+USER QUERY: "What can I do for dry skin?"
+MEDICAL_ADVICE: "For dry skin, use a moisturizer regularly, avoid hot showers, and use mild soaps. Applying a humidifier in your home can also help keep skin hydrated."
+
+USER QUERY: "How do I treat a mild burn?"
+MEDICAL_ADVICE: "For a mild burn, run cool (not cold) water over the area for 10-15 minutes, then cover it with a clean, dry cloth. Avoid applying ice directly to the burn."
+
+USER QUERY: "What should I do if I have a rash?"
+MEDICAL_ADVICE: "Keep the affected area clean and dry. Use over-the-counter creams to relieve itching. If the rash spreads or is accompanied by a fever, see a doctor."
+
+USER QUERY: "How can I manage my allergies?"
+MEDICAL_ADVICE: "For allergies, try to avoid allergens, use antihistamines, and keep windows closed during high pollen days. Consider seeing an allergist for further advice."
+
+USER QUERY: "What can I do for joint pain?"
+MEDICAL_ADVICE: "For joint pain, rest the affected joint, apply ice, and take over-the-counter pain relievers. Gentle stretching or low-impact exercises can also help."
+
+USER QUERY: "What should I do if I feel short of breath?"
+MEDICAL_ADVICE: "If you feel short of breath, sit down, try to calm yourself, and take deep, slow breaths. If the shortness of breath is severe or persists, seek medical help immediately."
+
+USER QUERY: "I have itchy eyes. Any suggestions?"
+MEDICAL_ADVICE: "For itchy eyes, use over-the-counter antihistamine eye drops, avoid rubbing your eyes, and try applying a cool compress."
+
+USER QUERY: "What can I do for swollen feet?"
+MEDICAL_ADVICE: "To reduce swelling, elevate your feet, stay hydrated, and avoid standing for long periods. Compression socks may also help."
+
+USER QUERY: "How do I prevent catching a cold?"
+MEDICAL_ADVICE: "To prevent colds, wash your hands regularly, avoid close contact with sick individuals, and maintain a healthy lifestyle with good nutrition and regular exercise."
+
+USER QUERY: "What should I do for a nosebleed?"
+MEDICAL_ADVICE: "For a nosebleed, sit up straight, lean forward slightly, and pinch the soft part of your nose for 5-10 minutes. Avoid lying down or tilting your head back."
+
+USER QUERY: "I have ringing in my ears. What should I do?"
+MEDICAL_ADVICE: "If you have ringing in your ears, try to avoid loud noises, reduce caffeine intake, and consider seeing an audiologist if it persists."
+
+USER QUERY: "How can I improve my digestion?"
+MEDICAL_ADVICE: "To improve digestion, eat smaller, more frequent meals, stay hydrated, and include fiber-rich foods in your diet. Regular exercise also helps."
+
+USER QUERY: "What can I do for ear pain?"
+MEDICAL_ADVICE: "For ear pain, try using over-the-counter pain relievers, apply a warm compress, and avoid inserting anything into the ear. If the pain persists, see a doctor."
+
+USER QUERY: "How do I treat a blister?"
+MEDICAL_ADVICE: "To treat a blister, clean the area with soap and water, cover it with a bandage, and avoid popping it. If it breaks, apply an antibiotic ointment."
+
+USER QUERY: "What should I do if I'm feeling anxious?"
+MEDICAL_ADVICE: "For anxiety, practice deep breathing, meditation, or yoga. Talk to someone you trust, and consider seeking professional help if anxiety persists."
+
+USER QUERY: "How can I lower my blood pressure?"
+MEDICAL_ADVICE: "To lower blood pressure, reduce salt intake, exercise regularly, maintain a healthy weight, and avoid excessive alcohol consumption. Regular check-ups with your doctor are also important."
+
+USER QUERY: "What can I do for dry eyes?"
+MEDICAL_ADVICE: "For dry eyes, use artificial tears, take breaks from screens, and consider using a humidifier. If symptoms persist, see an eye doctor."
+
+USER QUERY: "How can I reduce bloating?"
+MEDICAL_ADVICE: "To reduce bloating, avoid carbonated drinks, eat slowly, and include more fiber in your diet. Probiotics may also help."
+
+USER QUERY: "What should I do for mild dehydration?"
+MEDICAL_ADVICE: "For mild dehydration, drink plenty of water and consider oral rehydration solutions. Avoid caffeinated and sugary drinks."
+
+USER QUERY: "How do I prevent acne?"
+MEDICAL_ADVICE: "To prevent acne, keep your skin clean, avoid oily skincare products, and avoid touching your face. Consider using non-comedogenic products."
+
+USER QUERY: "What can I do for muscle cramps?"
+MEDICAL_ADVICE: "For muscle cramps, gently stretch the affected muscle, stay hydrated, and try applying a warm compress. Ensure you get enough electrolytes in your diet."
+
+USER QUERY: "How do I treat a minor burn?"
+MEDICAL_ADVICE: "For a minor burn, cool the burn under running water for 10-15 minutes, apply a soothing lotion or aloe vera, and cover it with a sterile bandage."
+
+USER QUERY: "What should I do if I'm feeling fatigued?"
+MEDICAL_ADVICE: "If you're feeling fatigued, ensure you're getting enough sleep, stay hydrated, and maintain a balanced diet. Regular exercise can also boost energy levels."
+
+USER QUERY: "How can I improve my immune system?"
+MEDICAL_ADVICE: "To boost your immune system, eat a balanced diet rich in fruits and vegetables, get regular exercise, stay hydrated, and get enough sleep."
+
+USER QUERY: "What should I do if I have a sinus headache?"
+MEDICAL_ADVICE: "For a sinus headache, use a warm compress on your face, stay hydrated, and use a saline nasal spray. Over-the-counter decongestants may also help."
+
+USER QUERY: "How can I deal with heartburn?"
+MEDICAL_ADVICE: "To relieve heartburn, avoid spicy and fatty foods, eat smaller meals, and avoid lying down immediately after eating. Antacids can provide quick relief."
+
+USER QUERY: "What should I do if I have a toothache?"
+MEDICAL_ADVICE: "For a toothache, rinse your mouth with warm salt water, use over-the-counter pain relievers, and apply a cold compress to reduce swelling. See a dentist if the pain persists."
+
+USER QUERY: "How can I relieve menstrual cramps?"
+MEDICAL_ADVICE: "For menstrual cramps, use a heating pad on your abdomen, take over-the-counter pain relievers like ibuprofen, and try gentle exercise or yoga."
+
+USER QUERY: "What should I do for a stuffy nose?"
+MEDICAL_ADVICE: "For a stuffy nose, use a saline nasal spray, stay hydrated, and try inhaling steam. A humidifier can also help to keep the air moist."
+
+USER QUERY: "How can I prevent a sore throat?"
+MEDICAL_ADVICE: "To prevent a sore throat, avoid close contact with sick individuals, wash your hands regularly, and avoid smoking or secondhand smoke."
+
+USER QUERY: "What should I do if I have a bad cough?"
+MEDICAL_ADVICE: "For a bad cough, drink plenty of fluids, use a humidifier, and consider over-the-counter cough suppressants. If the cough persists, see a doctor."
+
+USER QUERY: "How can I deal with insomnia?"
+MEDICAL_ADVICE: "For insomnia, establish a regular sleep schedule, avoid caffeine and electronics before bedtime, and create a relaxing bedtime routine."
+
+USER QUERY: "What should I do if I have earwax buildup?"
+MEDICAL_ADVICE: "For earwax buildup, use over-the-counter ear drops to soften the wax. If it doesn’t improve, see a healthcare professional for safe removal."
+
+USER QUERY: "How can I prevent food poisoning?"
+MEDICAL_ADVICE: "To prevent food poisoning, wash your hands before handling food, cook meat to the proper temperature, and refrigerate leftovers promptly."
+
+USER QUERY: "What can I do for itchy skin?"
+MEDICAL_ADVICE: "For itchy skin, use a moisturizer, avoid hot showers, and use mild soap. An over-the-counter hydrocortisone cream may help relieve the itch."
+
+USER QUERY: "How can I soothe a sunburn?"
+MEDICAL_ADVICE: "To soothe a sunburn, apply aloe vera or a moisturizing lotion, take cool baths, and stay hydrated. Avoid further sun exposure until healed."
+
+USER QUERY: "What should I do for a migraine?"
+MEDICAL_ADVICE: "For a migraine, rest in a dark, quiet room, apply a cold compress to your forehead, and take over-the-counter pain relievers like ibuprofen."
+
+USER QUERY: "How can I prevent dehydration?"
+MEDICAL_ADVICE: "To prevent dehydration, drink plenty of water, especially in hot weather or when exercising. Avoid excessive caffeine and alcohol."
+
+USER QUERY: "What can I do for swollen glands?"
+MEDICAL_ADVICE: "For swollen glands, rest, drink fluids, and take over-the-counter pain relievers. If swelling persists or is accompanied by a fever, see a doctor."
+
+USER QUERY: "How can I improve my posture?"
+MEDICAL_ADVICE: "To improve posture, practice standing and sitting up straight, keep your shoulders back, and engage in exercises that strengthen your core."
+
+USER QUERY: "What should I do if I have a cold sore?"
+MEDICAL_ADVICE: "For a cold sore, use over-the-counter antiviral creams, avoid touching the sore, and keep the area clean. If sores are frequent, consult a doctor."
+
+USER QUERY: "How do I treat athlete's foot?"
+MEDICAL_ADVICE: "For athlete's foot, keep feet clean and dry, use over-the-counter antifungal creams, and wear breathable footwear."
+
+USER QUERY: "What can I do for a bruised area?"
+MEDICAL_ADVICE: "For a bruise, apply a cold compress to the area, elevate it if possible, and avoid putting pressure on the bruise. Over time, the bruise will heal."
+
+USER QUERY: "How can I prevent headaches?"
+MEDICAL_ADVICE: "To prevent headaches, stay hydrated, maintain a regular sleep schedule, manage stress, and avoid triggers like certain foods or bright lights."
+
+USER QUERY: "What should I do if I have a skin rash?"
+MEDICAL_ADVICE: "For a skin rash, keep the area clean and dry, use over-the-counter anti-itch creams, and avoid scratching. If the rash worsens, see a doctor."
+
+USER QUERY: "How do I manage acid reflux?"
+MEDICAL_ADVICE: "To manage acid reflux, eat smaller meals, avoid lying down immediately after eating, and avoid trigger foods like spicy or fatty foods."
+
+USER QUERY: "What should I do if I have chest pain?"
+MEDICAL_ADVICE: "If you have chest pain, seek immediate medical attention, especially if it is severe, accompanied by shortness of breath, or radiates to the arm or jaw."
+
+USER QUERY: "How can I prevent dizziness?"
+MEDICAL_ADVICE: "To prevent dizziness, avoid sudden movements, stay hydrated, and eat regular meals. If dizziness persists, consult a healthcare professional."
+
+USER QUERY: "What can I do for sore muscles?"
+MEDICAL_ADVICE: "For sore muscles, rest, apply ice or heat, and use over-the-counter pain relievers. Gentle stretching can also help relieve soreness."
+
+USER QUERY: "How can I manage hay fever?"
+MEDICAL_ADVICE: "For hay fever, stay indoors on high pollen days, use antihistamines, and keep windows closed. A saline nasal spray can also help."
+
+USER QUERY: "What should I do if I feel faint?"
+MEDICAL_ADVICE: "If you feel faint, sit or lie down immediately to prevent falling. Drink water and breathe slowly. If fainting occurs frequently, seek medical advice."
+
+USER QUERY: "How can I relieve neck pain?"
+MEDICAL_ADVICE: "For neck pain, apply a warm or cold compress, perform gentle stretching exercises, and maintain good posture. Over-the-counter pain relievers can also help."
+
+USER QUERY: "What should I do for a bug bite?"
+MEDICAL_ADVICE: "For a bug bite, clean the area with soap and water, apply a cold compress to reduce swelling, and use an anti-itch cream to relieve itching."
+
+USER QUERY: "How can I prevent UTIs?"
+MEDICAL_ADVICE: "To prevent UTIs, drink plenty of water, urinate after sexual activity, and avoid using harsh soaps or douches in the genital area."
+
+USER QUERY: "What's my appointment time today?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Nelson is at 9:00 AM."
+
+USER QUERY: "Is Dr. Jackson available next week?"
+DOCTOR_SCHEDULE: "Dr. Jackson is available on Monday, Thursday, and Friday."
+
+USER QUERY: "Schedule me with Dr. Jackson for Thursday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Jackson at 11:00 AM on Thursday."
+
+USER QUERY: "When is my next dental appointment?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Brown is at 3:30 PM."
+
+USER QUERY: "What days does Dr. Carter work?"
+DOCTOR_SCHEDULE: "Dr. Carter is available on Tuesday, Thursday, and Saturday."
+
+USER QUERY: "Can you book an appointment with Dr. Carter?"
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Carter at 2:30 PM on Saturday."
+
+USER QUERY: "Do I have any appointments tomorrow?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Taylor is at 1:00 PM tomorrow."
+
+USER QUERY: "When is Dr. Martin available?"
+DOCTOR_SCHEDULE: "Dr. Martin is available on Wednesday and Friday."
+
+USER QUERY: "Book me with Dr. Martin on Wednesday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Martin at 4:00 PM on Wednesday."
+
+USER QUERY: "What's the status of my upcoming appointment?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Lee is at 10:15 AM on Monday."
+
+USER QUERY: "Is Dr. Walker free on Friday?"
+DOCTOR_SCHEDULE: "Dr. Walker is available on Friday."
+
+USER QUERY: "Set an appointment with Dr. Walker for Friday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Walker at 9:30 AM on Friday."
+
+USER QUERY: "What time do I see Dr. King?"
+APPOINTMENT_STATUS: "Your appointment with Dr. King is at 11:45 AM."
+
+USER QUERY: "When can I meet Dr. Scott?"
+DOCTOR_SCHEDULE: "Dr. Scott is available on Monday, Wednesday, and Thursday."
+
+USER QUERY: "Book an appointment with Dr. Scott on Monday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Scott at 3:00 PM on Monday."
+
+USER QUERY: "Am I scheduled for an appointment?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Hill is at 2:00 PM on Tuesday."
+
+USER QUERY: "When is Dr. Adams available?"
+DOCTOR_SCHEDULE: "Dr. Adams is available on Tuesday and Thursday."
+
+USER QUERY: "Schedule a meeting with Dr. Adams for Tuesday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Adams at 10:00 AM on Tuesday."
+
+USER QUERY: "Can you tell me my appointment time?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Clark is at 4:30 PM."
+
+USER QUERY: "What are Dr. Hall's available days?"
+DOCTOR_SCHEDULE: "Dr. Hall is available on Monday, Thursday, and Friday."
+
+USER QUERY: "I'd like to see Dr. Hall on Thursday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Hall at 1:00 PM on Thursday."
+
+USER QUERY: "Do I have an appointment scheduled today?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Lewis is at 9:00 AM today."
+
+USER QUERY: "What is Dr. Allen's availability?"
+DOCTOR_SCHEDULE: "Dr. Allen is available on Monday, Wednesday, and Friday."
+
+USER QUERY: "Please book me an appointment with Dr. Allen."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Allen at 11:30 AM on Friday."
+
+USER QUERY: "When is my appointment with Dr. Wright?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Wright is at 10:30 AM on Thursday."
+
+USER QUERY: "Is Dr. Young free this week?"
+DOCTOR_SCHEDULE: "Dr. Young is available on Tuesday and Friday."
+
+USER QUERY: "Schedule an appointment with Dr. Young on Friday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Young at 2:30 PM on Friday."
+
+USER QUERY: "When do I see Dr. Hernandez?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Hernandez is at 1:15 PM."
+
+USER QUERY: "What days can I book with Dr. Robinson?"
+DOCTOR_SCHEDULE: "Dr. Robinson is available on Wednesday, Friday, and Saturday."
+
+USER QUERY: "Can I get an appointment with Dr. Robinson on Saturday?"
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Robinson at 3:00 PM on Saturday."
+
+USER QUERY: "What's my next appointment time?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Lopez is at 2:45 PM."
+
+USER QUERY: "Is Dr. Green available on Monday?"
+DOCTOR_SCHEDULE: "Dr. Green is available on Monday and Thursday."
+
+USER QUERY: "Please schedule an appointment with Dr. Green for Monday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Green at 10:30 AM on Monday."
+
+USER QUERY: "When will I meet Dr. Perez?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Perez is at 11:00 AM on Tuesday."
+
+USER QUERY: "What days is Dr. Baker available?"
+DOCTOR_SCHEDULE: "Dr. Baker is available on Tuesday, Wednesday, and Friday."
+
+USER QUERY: "Book me with Dr. Baker on Wednesday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Baker at 9:00 AM on Wednesday."
+
+USER QUERY: "Can you confirm my appointment?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Rivera is at 4:00 PM."
+
+USER QUERY: "What time do I see Dr. Murphy?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Murphy is at 8:30 AM."
+
+USER QUERY: "Is Dr. Ramirez available next week?"
+DOCTOR_SCHEDULE: "Dr. Ramirez is available on Tuesday and Thursday."
+
+USER QUERY: "Book an appointment with Dr. Ramirez on Thursday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Ramirez at 12:00 PM on Thursday."
+
+USER QUERY: "When is my next appointment?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Sanchez is at 3:45 PM on Friday."
+
+USER QUERY: "What are Dr. Cooper's available days?"
+DOCTOR_SCHEDULE: "Dr. Cooper is available on Monday, Wednesday, and Friday."
+
+USER QUERY: "I'd like to see Dr. Cooper on Friday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Cooper at 2:00 PM on Friday."
+
+USER QUERY: "Do I have an appointment with Dr. Kelly?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Kelly is at 10:30 AM on Thursday."
+
+USER QUERY: "Is Dr. Flores free on Wednesday?"
+DOCTOR_SCHEDULE: "Dr. Flores is available on Wednesday."
+
+USER QUERY: "Set an appointment with Dr. Flores for Wednesday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Flores at 1:30 PM on Wednesday."
+
+USER QUERY: "When is my consultation with Dr. Ward?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Ward is at 4:15 PM on Tuesday."
+
+USER QUERY: "What days does Dr. Barnes work?"
+DOCTOR_SCHEDULE: "Dr. Barnes is available on Monday, Tuesday, and Thursday."
+
+USER QUERY: "Can you book an appointment with Dr. Barnes?"
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Barnes at 11:00 AM on Tuesday."
+
+USER QUERY: "Do I have any appointments next week?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Jenkins is at 9:45 AM on Monday."
+
+USER QUERY: "When is Dr. Powell available?"
+DOCTOR_SCHEDULE: "Dr. Powell is available on Wednesday and Friday."
+
+USER QUERY: "Book me with Dr. Powell on Wednesday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Powell at 10:15 AM on Wednesday."
+
+USER QUERY: "What's my next consultation time?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Simmons is at 1:00 PM on Thursday."
+
+USER QUERY: "Is Dr. Bell available tomorrow?"
+DOCTOR_SCHEDULE: "Dr. Bell is available on Tuesday."
+
+USER QUERY: "Schedule an appointment with Dr. Bell for Tuesday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Bell at 3:30 PM on Tuesday."
+
+USER QUERY: "When is my check-up with Dr. Morris?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Morris is at 11:30 AM on Friday."
+
+USER QUERY: "What are Dr. Murphy's available days?"
+DOCTOR_SCHEDULE: "Dr. Murphy is available on Monday, Wednesday, and Saturday."
+
+USER QUERY: "I'd like to see Dr. Murphy on Saturday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Murphy at 2:45 PM on Saturday."
+
+USER QUERY: "Do I have a follow-up appointment?"
+APPOINTMENT_STATUS: "Your follow-up appointment with Dr. Price is at 10:00 AM on Wednesday."
+
+USER QUERY: "Is Dr. Mitchell free on Thursday?"
+DOCTOR_SCHEDULE: "Dr. Mitchell is available on Thursday."
+
+USER QUERY: "Set an appointment with Dr. Mitchell for Thursday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Mitchell at 12:30 PM on Thursday."
+
+USER QUERY: "When is my session with Dr. Cook?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Cook is at 9:00 AM on Tuesday."
+
+USER QUERY: "What days can I book with Dr. Reed?"
+DOCTOR_SCHEDULE: "Dr. Reed is available on Tuesday, Thursday, and Friday."
+
+USER QUERY: "Can I get an appointment with Dr. Reed on Friday?"
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Reed at 1:45 PM on Friday."
+
+USER QUERY: "What's my next visit time?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Perry is at 2:15 PM on Wednesday."
+
+USER QUERY: "Is Dr. Bryant available on Monday?"
+DOCTOR_SCHEDULE: "Dr. Bryant is available on Monday and Friday."
+
+USER QUERY: "Please schedule an appointment with Dr. Bryant for Monday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. Bryant at 11:15 AM on Monday."
+
+USER QUERY: "When will I meet Dr. Brooks?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Brooks is at 10:45 AM on Thursday."
+
+USER QUERY: "What days is Dr. James available?"
+DOCTOR_SCHEDULE: "Dr. James is available on Monday, Wednesday, and Saturday."
+
+USER QUERY: "Book me with Dr. James on Wednesday."
+BOOK_APPOINTMENT: "Your appointment has been booked with Dr. James at 3:00 PM on Wednesday."
+
+USER QUERY: "Can you confirm my next appointment?"
+APPOINTMENT_STATUS: "Your appointment with Dr. Howard is at 4:30 PM on Tuesday."
