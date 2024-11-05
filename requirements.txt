@@ -1,0 +1,8 @@
+socket==1.1.0
+pyaudio
+wave==0.0.2
+openai-whisper==20231117
+transformers==4.39.3
+gtts==2.5.3
+pydub==0.25.1
+torch==2.4.0
