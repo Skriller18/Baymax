@@ -6,3 +6,7 @@ transformers==4.39.3
 gtts==2.5.3
 pydub==0.25.1
 torch==2.4.0
+pygame
+SpeechRecognition
+streamlit
+google-generativeai
